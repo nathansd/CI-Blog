@@ -4,3 +4,4 @@
 </head>
 <body>
 <h1>Code Ignitor Tutorial</h1>
+<a href="create">Create new blog</a>
